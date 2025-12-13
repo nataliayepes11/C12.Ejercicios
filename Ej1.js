@@ -14,3 +14,5 @@ while (numero >= 0) {
 }
 
 console.log("La suma total es: " + suma);
+
+
