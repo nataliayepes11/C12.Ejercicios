@@ -1,7 +1,6 @@
 // Ejercicio 4: Ciclo For - Array
 //Crear un programa que permita registrar las notas de varios estudiantes usando arrays y mostrarlas por pantalla:
 
-
 const prompt = require('prompt-sync')();
 
 // 1. Crear un array para almacenar las notas.
