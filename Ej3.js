@@ -6,7 +6,7 @@ Para esto, debes seguir los siguientes pasos:
 3. Utilizar un ciclo for para recorrer los números desde 0 hasta X (inclusive).
 4. Dentro del ciclo, verificar si el número es impar.
 5. Si el número es impar, incrementar el contador de números impares.
-6. Al fi nalizar el ciclo, imprimir en consola la cantidad de números impares encontrados.
+6. Al finalizar el ciclo, imprimir en consola la cantidad de números impares encontrados.
 7. Utiliza el operador módulo (%) para verifi car si un número es impar.
 8. Ejemplo de Ejecución: Si el usuario ingresa 10, el programa debe imprimir: 
 “La cantidad de números impares desde 0 hasta 10 (inclusive) es: 5”
