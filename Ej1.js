@@ -12,7 +12,6 @@ while (numero >= 0) {
     suma += numero;  
     numero = parseInt(prompt("Ingresá otro número (negativo para terminar): "));
 }
-
 console.log("La suma total es: " + suma);
 
 
