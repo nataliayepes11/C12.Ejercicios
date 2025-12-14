@@ -1,0 +1,24 @@
+{
+  "name": "c12.ejercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ej1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliayepes11/C12.Ejercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nataliayepes11/C12.Ejercicios/issues"
+  },
+  "homepage": "https://github.com/nataliayepes11/C12.Ejercicios#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
