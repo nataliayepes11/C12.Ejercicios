@@ -8,3 +8,4 @@ Crear un programa que permita registrar las notas de varios estudiantes usando a
 */
 
 const prompt = require('prompt-sync')();
+
