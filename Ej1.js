@@ -8,7 +8,7 @@ let numero = parseInt(prompt("Ingresá un número (negativo para terminar): "));
 let suma = 0;
 
 while (numero >= 0) {
-    // sumo el número
+    // sumo el número...
     suma += numero;  
     numero = parseInt(prompt("Ingresá otro número (negativo para terminar): "));
 }
